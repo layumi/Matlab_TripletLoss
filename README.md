@@ -6,5 +6,7 @@ In fact, the loss only has two (not three) input X and Y .
 Here is the relationship between inputs: X = [Xp,Xn]; Y = [Yp,Yn]; 
 
 Xp has the same label with Yp.
+
 Xp has the different label with Yn.
+
 Xn has the different label with Yp.
