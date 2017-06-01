@@ -1,5 +1,5 @@
 # Matlab_TripletLoss
-This is a simple code for tripletloss. I wrote the forward and backward function. 
+This is a simple code for tripletloss（Rankloss）. I wrote the forward and backward function. 
 
 In fact, the loss only has two (not three) input X and Y .
 
